@@ -1,0 +1,13 @@
+input.colorCursorPointer, input.rangeCursorPointer{
+	cursor: pointer;
+}
+
+.pixelSpace {
+	width: 500px;
+	height: 500px;
+	background-color: grey;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto; 
+	position: relative;
+}
